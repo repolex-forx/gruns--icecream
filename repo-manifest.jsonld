@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/gruns/icecream/commit/2e09b0dc674bc4375f34b5254d15569569603ee1",
       "git:hexsha": "2e09b0dc674bc4375f34b5254d15569569603ee1",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T04:42:37.048722+00:00"
     },
     {
       "@id": "https://repolex.ai/r/gruns/icecream/commit/5c5cfab5112b1148faf85fe004289418e82505e2",
